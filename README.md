@@ -1,4 +1,4 @@
-﻿# 🌱 GREENLAND: A Secure Land Registration Scheme
+﻿# 🌱 GREENLAND: A Secure Land Registration Scheme for Blockchain & AI Enabled Agriculture Industry 5.0
 
 This project integrates **Blockchain**, **IPFS**, and **AI** technologies to provide a secure and decentralized land registration system for the agriculture industry.
 
